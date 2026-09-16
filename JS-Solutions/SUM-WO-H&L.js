@@ -1,5 +1,5 @@
 function sumArray(numbers) {
-  if (numbers === null || numbers.length <= 1) {
+  if (!numbers || numbers.length <= 1) {
     return 0;
   }
 
