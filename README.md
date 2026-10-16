@@ -1,13 +1,32 @@
-<!-- # codeWarSolutions
+# Codewars Solutions
 
-Uploading my solutions for the problems I work towards! Feel free to check in and ask away.
+My daily Codewars grind, all in JavaScript. I try to get at least one kata in every day.
 
-## JavaScript Solutions
+Solutions live in the `JS-Solutions` folder. Each kata gets the solution file plus a plain-English README where I break down what the code actually does. Writing out the explanation is half the practice.
 
-Each JavaScript solution now has a matching beginner-friendly README explaining the code in simple terms.
+## Katas solved so far
 
-- `ARRANGE DESCENDING ORDER.js` — rearranges number digits from highest to lowest.
-- `BUG ALIEN.js` — calculates aircraft travel distance in kilometers.
-- `NEGATIVE.js` — makes positive numbers negative.
-- `STRING TO ARRAY.js` — turns a sentence into an array of words.
-- `STRINGSPACE.js` — removes spaces from a string. -->
+- Arrange Descending Order
+- Array Sentence
+- Banjo
+- Basic Math Op
+- Bool to String
+- Bug Alien
+- Digital Root
+- Function Hello World
+- Grasshopper
+- List Filtering
+- Negative
+- Ones and Zeros
+- Palindrome DLT
+- Persistent Bugger
+- Replace Vowels
+- Return Min
+- Rock Paper Scissors
+- Simple Multiplication
+- String Array to Num
+- String Ending Checker
+- String to Array
+- Stringspace
+
+More going up as I solve them.
